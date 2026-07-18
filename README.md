@@ -18,5 +18,5 @@
 
 ## 🚀 Installation
 
-```bash
+bash
 pip install validator-chain
